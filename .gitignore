@@ -18,6 +18,8 @@ venv/
 .env/
 *.env
 
+.vscode/*
+
 # Alembic
 alembic/versions/*.pyc
 fix_follow_counts.py
