@@ -11,6 +11,8 @@ python-jose = {extras = ["cryptography"], version = "*"}
 python-multipart = "*"
 passlib = "*"
 alembic = "*"
+python-dotenv = "*"
+psycopg2-binary = "*"
 
 [dev-packages]
 
