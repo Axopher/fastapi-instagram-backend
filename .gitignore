@@ -1,0 +1,23 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+*.sqlite3
+*.db
+db.sql
+
+# Pipenv
+Pipfile.lock
+
+# Virtual environments
+.venv/
+venv/
+.env/
+*.env
+
+# Alembic
+alembic/versions/*.pyc
+fix_follow_counts.py
